@@ -23,40 +23,53 @@ Lecturers of the course - Mario Zahariev, Ivan Shopov
 <h2>Table of Contents:</h2>
 
 
-1. First Steps in Coding
-   - [Lab](https://github.com/maon0002/Programming-Basics-with-Python-July-September-2022/tree/main/first_steps_in_coding_lab)
-   - [Exercise](https://github.com/maon0002/Programming-Basics-with-Python-July-September-2022/tree/main/first_steps_in_coding_exercise)
-   - [More Exercise](https://github.com/maon0002/Programming-Basics-with-Python-July-September-2022/tree/main/first_steps_in_coding__more_exercises)
+1. Basic Syntax, Conditional Statements and Loops
+   - [Lab](https://github.com/maon0002/Programming-Fundamentals-with-Python-September-December-2022/tree/main/basic_syntax_conditional_statements_and_loops__lab)
+   - [Exercise](https://github.com/maon0002/Programming-Fundamentals-with-Python-September-December-2022/tree/main/basic_syntax_conditional_statements_and_loops__exercise)
+   - [More Exercise](https://github.com/maon0002/Programming-Fundamentals-with-Python-September-December-2022/tree/main/basic_syntax_conditional_statements_and_loops__more_exercises)
   
-2. Conditional Statements
-   - [Lab](https://github.com/maon0002/Programming-Basics-with-Python-July-September-2022/tree/main/conditional_statements__lab)
-   - [Exercise](https://github.com/maon0002/Programming-Basics-with-Python-July-September-2022/tree/main/conditional_statements__exercise)
-   - [More Exercise](https://github.com/maon0002/Programming-Basics-with-Python-July-September-2022/tree/main/conditional_statements__more_exercises)
+2. Data Types and Variables
+   - [Lab](https://github.com/maon0002/Programming-Fundamentals-with-Python-September-December-2022/tree/main/data_types_and_variables__lab)
+   - [Exercise](https://github.com/maon0002/Programming-Fundamentals-with-Python-September-December-2022/tree/main/data_types_and_variables__exercise)
+   - [More Exercise](https://github.com/maon0002/Programming-Fundamentals-with-Python-September-December-2022/tree/main/data_types_and_variables__more_exercises)
 
-3. Conditional Statements Advanced
-   - [Lab](https://github.com/maon0002/Programming-Basics-with-Python-July-September-2022/tree/main/conditional_statements_advanced__lab)
-   - [Exercise](https://github.com/maon0002/Programming-Basics-with-Python-July-September-2022/tree/main/conditional_statements_advanced__exercise)
+3. Lists Basics
+   - [Lab](https://github.com/maon0002/Programming-Fundamentals-with-Python-September-December-2022/tree/main/lists_basics__lab)
+   - [Exercise](https://github.com/maon0002/Programming-Fundamentals-with-Python-September-December-2022/tree/main/lists_basics__exercise)
+   - [More Exercise](https://github.com/maon0002/Programming-Fundamentals-with-Python-September-December-2022/tree/main/lists_basics__more_exercises)
 
-4. For Loop
-   - [Lab](https://github.com/maon0002/Programming-Basics-with-Python-July-September-2022/tree/main/for_loop__lab)
-   - [Exercise](https://github.com/maon0002/Programming-Basics-with-Python-July-September-2022/tree/main/for_loop__exercise)
-   - [More Exercise](https://github.com/maon0002/Programming-Basics-with-Python-July-September-2022/tree/main/forloop__more_exercises)
+4. Functions
+   - [Lab](https://github.com/maon0002/Programming-Fundamentals-with-Python-September-December-2022/tree/main/functions__lab)
+   - [Exercise](https://github.com/maon0002/Programming-Fundamentals-with-Python-September-December-2022/tree/main/functions__exercise)
+   - [More Exercise](https://github.com/maon0002/Programming-Fundamentals-with-Python-September-December-2022/tree/main/functions__more_exercises)
 
-5. While Loop
-   - [Lab](https://github.com/maon0002/Programming-Basics-with-Python-July-September-2022/tree/main/while_loop__lab)
-   - [Exercise](https://github.com/maon0002/Programming-Basics-with-Python-July-September-2022/tree/main/while_loop__exercise)
-   - [More Exercise](https://github.com/maon0002/Programming-Basics-with-Python-July-September-2022/tree/main/whileloop__more_exercises)
+5. Lists Advanced
+   - [Lab](https://github.com/maon0002/Programming-Fundamentals-with-Python-September-December-2022/tree/main/lists_advanced__lab)
+   - [Exercise](https://github.com/maon0002/Programming-Fundamentals-with-Python-September-December-2022/tree/main/lists_advanced__exercise)
+   - [More Exercise](https://github.com/maon0002/Programming-Fundamentals-with-Python-September-December-2022/tree/main/lists_advanced__more_exercises)
 
-6. Nested Loops
-   - [Lab](https://github.com/maon0002/Programming-Basics-with-Python-July-September-2022/tree/main/nested_loops__lab)
-   - [Exercise](https://github.com/maon0002/Programming-Basics-with-Python-July-September-2022/tree/main/nested_loops__exercise)
+6. Objects and Classes
+   - [Lab](https://github.com/maon0002/Programming-Fundamentals-with-Python-September-December-2022/tree/main/objects_and_classes__lab)
+   - [Exercise](https://github.com/maon0002/Programming-Fundamentals-with-Python-September-December-2022/tree/main/objects_and_classes__exericse)
 
-7. Drawing Figures with Loops
-   - [More Exercise](https://github.com/maon0002/Programming-Basics-with-Python-July-September-2022/tree/main/drawing_figures_with_loops__more_exercises)
+7. Dictionaries
+   - [Lab](https://github.com/maon0002/Programming-Fundamentals-with-Python-September-December-2022/tree/main/dictionaries__lab)
+   - [Exercise](https://github.com/maon0002/Programming-Fundamentals-with-Python-September-December-2022/tree/main/dictionaries__exercise)
+   - [More Exercise](https://github.com/maon0002/Programming-Fundamentals-with-Python-September-December-2022/tree/main/dictionaries__more_exercises)
 
-8. Exams
-   - [Training](https://github.com/maon0002/Programming-Basics-with-Python-July-September-2022/tree/main/exams/programming_basics_online_exam__6_and_7_april_2019)
-   - [My Exam](https://github.com/maon0002/Programming-Basics-with-Python-July-September-2022/tree/main/exams/programming_basics_online_exam__6_and_7_april_2019)
+8. Text Processing
+   - [Lab](https://github.com/maon0002/Programming-Fundamentals-with-Python-September-December-2022/tree/main/text_processing__lab)
+   - [Exercise](https://github.com/maon0002/Programming-Fundamentals-with-Python-September-December-2022/tree/main/text_processing__exercise)
+   - [More Exercise](https://github.com/maon0002/Programming-Fundamentals-with-Python-September-December-2022/tree/main/text_processing__more_exercises)
+
+9. Regular Expressions 
+   - [Lab]()
+   - [Exercise]()
+   - [More Exercise]()
+
+10. Exam
+   - [Training]()
+   - [My Exam]()
 
 
 <h1></h1>
