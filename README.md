@@ -1,7 +1,7 @@
-# Programming-Basics-with-Python-July-September-2022
+# Programming-Fundamentals-with-Python-September-December-2022
  In this repository there are solutions to tasks from the Python Fundamentals programming course of the software academy of SoftUni University.
 
-Lecturers of the course - Mario Zahariev, Ivan Shopov, Veronika Vaneva
+Lecturers of the course - Mario Zahariev, Ivan Shopov
 
 <p style="text-align:center;"><img src="https://user-images.githubusercontent.com/68993494/185683680-bcfefe65-88fb-4192-b0b2-ff9130c39487.png" alt="Logo"></p>
 
@@ -61,6 +61,6 @@ Lecturers of the course - Mario Zahariev, Ivan Shopov, Veronika Vaneva
 
 <h1></h1>
 
->Course page - [Programming Basics with Python - July 2022](https://softuni.bg/trainings/3840/programming-fundamentals-with-python-september-2022)
+>Course page - [Programming Fundamentals with Python - September/December 2022](https://softuni.bg/trainings/3840/programming-fundamentals-with-python-september-2022)
 >
 > <p style="text-align:center;"><img src="https://about.softuni.bg/Content/images/svg-logos/softuni-logo-white.svg" width=400 length=400 alt="Logo"></p>
