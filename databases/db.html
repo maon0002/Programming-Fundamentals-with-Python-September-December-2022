@@ -1,0 +1,56 @@
+Теория:
+Бази от данни (Databases = DB) - съхраняваме информация, която можем да модифицираме
+ 
+Видове бази данни:
+1. Релационни (Relational / SQL) бази данни
+	- данните се съхраняват в таблици, между които има връзки
+	- езици, за да модифицираме данните в таблиците -> MySQL, PosgreSQL
+	- софтуер MySQL Workbench за модификация на релационни бази от данни с езика MySQL
+	- XAMPP и HeidiSQL - алтернативни софтуери на MySQL Workbench
+	* заявки (queries) - чрез тях си обработваме данните в таблиците
+ 
+2. Нерелационни (Non-relational / NoSQL) бази данни
+	- данните се съхраняват в различни видове структури
+	- езици, за да модифицираме данните -> MongoDB
+	- софтуер MongoDB Compass за модификация на нерелационни бази от данни с езика MongoDB
+	- Robo 3T, NoSQLBooster - алтернативни сотуери на MongoDB Compass
+ 
+Задачи:
+01. Create Table
+CREATE TABLE `students` (
+	`id` INT AUTO_INCREMENT PRIMARY KEY, 
+    `first_name` VARCHAR(50),
+    `last_name` VARCHAR(50),
+    `age` INT,
+    `grade` DOUBLE
+);
+ 
+02. Insert Data
+INSERT INTO `students` (`id`, `first_name`, `last_name`, `age`, `grade`)
+VALUES
+(1, 'Guy', 'Gilbert', 15, 4.5),
+(2, 'Kevin', 'Brown', 17, 5.4),
+(3, 'Roberto', 'Tamburello', 19, 6),
+(4, 'Linda', 'Smith', 18, 5),
+(5, 'John', 'Stones', 16, 4.25),
+(6, 'Nicole', 'Nelson', 17, 5.5);
+ 
+03. Find All Records
+SELECT * FROM `students`;
+ 
+04. Find Last Name, Age and Grade
+SELECT `last_name`, `age`, `grade` FROM `students`;
+ 
+05. Find First 5 Records
+SELECT * FROM `students`
+LIMIT 5;
+ 
+06. Find First 5 Last Name and Grade
+SELECT `last_name`, `grade` FROM `students`
+LIMIT 5;
+ 
+07. Truncate Table
+TRUNCATE TABLE `students`;
+ 
+08. Drop Table
+DROP TABLE `students`;
