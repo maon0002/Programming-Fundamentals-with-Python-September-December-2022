@@ -116,7 +116,6 @@ def car_storage_func(num):
         car, mileage, fuel = car_string.split("|")
         obtained_cars_dict[car] = [int(mileage), int(fuel)]
         num -= 1
-    # print(obtained_cars_dict)
     actions(obtained_cars_dict)
     return obtained_cars_dict
 
