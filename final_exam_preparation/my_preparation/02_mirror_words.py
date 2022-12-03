@@ -55,7 +55,7 @@ def mirror_words(words_list):
 
 
 def find_words(text):
-    pattern = r'(@|#)([A-Za-z]{3,})\1(@|#)([A-Za-z]{3,})\1'
+    pattern = r'(@|#)([A-Za-z]{3,})\1(@|#)([A-Za-z]{3,})\1' #(\1{2})
     matches = re.findall(pattern, text)
     matches_list = []
     for group in matches:

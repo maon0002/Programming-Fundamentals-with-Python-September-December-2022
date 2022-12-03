@@ -113,7 +113,7 @@ def emoji_validation(input_string):
             value = ord(emojies[i])
             emoji_treshold[emojies] += value
 
-    # print(found_matches, count_matches, emoji_treshold, cool_treshold)
+    # print(found_matches, count_matches, emoji_treshold, cool_treshold) #test
     print_result(count_matches, emoji_treshold, cool_treshold)
     return found_matches, count_matches, emoji_treshold, cool_treshold
 
@@ -124,7 +124,7 @@ def print_result(count_matches, emoji_treshold, cool_treshold):
     for current_emojies, treshold in emoji_treshold.items():
         if treshold > cool_treshold:
             print(current_emojies)
-    return None
+    return emoji_treshold.items()
 
 
 input_string = input()
