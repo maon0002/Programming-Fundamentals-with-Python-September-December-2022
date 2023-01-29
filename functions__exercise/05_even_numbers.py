@@ -1,5 +1,3 @@
-#     5. Even Numbers
-# Write a program that receives a sequence of numbers (integers) separated by a single space. It should print a list of only the even numbers. Use filter().
 
 # def split_even(nums):
 #     even_nums = []

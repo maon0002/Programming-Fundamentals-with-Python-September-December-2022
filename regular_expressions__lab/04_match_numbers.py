@@ -1,8 +1,3 @@
-#
-#     4. Match Numbers
-# Write a program that finds all integer and floating-point numbers in a string.
-
-
 import re
 pattern = r'(^|(?<=\s))(-?)([0]|[1-9][0-9]*)(\.\d+)?($|(?=\s))'
 input_line = input()
